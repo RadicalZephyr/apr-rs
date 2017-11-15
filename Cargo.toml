@@ -1,0 +1,9 @@
+[package]
+name = "apr-sys"
+version = "0.1.0"
+authors = ["Geoff Shannon <geoffpshannon@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.26.3"
